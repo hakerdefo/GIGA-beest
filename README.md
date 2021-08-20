@@ -173,4 +173,7 @@ Kudos! We have turned a timid GNU nano into a powerful wildebeest.
 And don't forget what some wise man famously and rightly said,  
 > Good Things Come in Small Packages.
 
-Bye Bye.
+Credit for this whole effort goes to [Klaatu](https://github.com/notklaatu) and his podcast on GNU nano. If you are not listening to his podcasts you for sure are missing something great. Go check it out as soon as possible,  
+[The GNU  World  Order](http://gnuworldorder.info/)  
+
+Bye Bye.  
