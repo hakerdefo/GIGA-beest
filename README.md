@@ -87,7 +87,7 @@ Wouldn't it be nice if the colors in nano were different for a normal user and a
 ```text
 touch /root/.nanorc
 ```
-Open that file and paste this content in it,  
+Open that file and paste this content in it and save the changes.  
 ```text
 set atblanks
 set autoindent
