@@ -15,7 +15,7 @@ Next open that file and simply paste the following content in it,
 set atblanks
 set autoindent
 set backup
-set backupdir "$HOME/Documents/Nano_Backups/"
+set backupdir "/home/$USER/Documents/Nano_Backups/"
 set boldtext
 set constantshow
 set cutfromcursor
@@ -79,6 +79,9 @@ bind ^Z undo main
 bind ^Y redo main
 
 ```
+You'll have to replace <code>$USER</code> in the following line,  
+<code>set backupdir "/home/$USER/Documents/Nano_Backups/"</code>  
+with your actual <code>username</code> and then save this file.  
 
 Wouldn't it be nice if the colors in nano were different for a normal user and a root user? Yes, for sure. To do so create an empty <code>.nanorc</code> file in the root's directory. You'll have to do this with the help of either <code>sudo</code> or <code>su</code>,  
 ```text
